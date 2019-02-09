@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(253, 253, 56); 
+}
+    li .done span{
+    text-decoration:line-through;
+}
+
+h1{
+     font-family: Brush Script MT, Brush Script Std, cursive;
+     color: whitesmoke;
+    padding: 10px;
+    background-color: rgb(0, 89, 255);
+    border-radius: 25px;
+}
+.container{
+    background-color:rgb(0, 174, 255);
+    border-radius: 25px;
+}
